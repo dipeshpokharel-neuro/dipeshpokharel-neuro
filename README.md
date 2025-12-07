@@ -22,7 +22,6 @@ Neuroscience Researcher | Neurodegeneration | Limb Dominance | Gut–Brain Axis
 
 ## 📰 Media Mentions  
 - *The Blade*: “The Link Between Limb Dominance and Parkinson’s Disease”  
-- University of Toledo COMLS features  
 
 ---
 
