@@ -14,14 +14,6 @@ Neuroscience Researcher | Neurodegeneration | Limb Dominance | Gut–Brain Axis
 
 ---
 
-## 🧠 Research Focus  
-- Neuroscience
-- Neurodegeneration
-- Parkinson’s research
-- Limb dominance
-- Gut–brain axis
----
-
 ## 🧪 Current Projects   
 - Neuroscience ggplot2 Templates  
 - Brain-Atlas-Mini & Brain Region Colormap
