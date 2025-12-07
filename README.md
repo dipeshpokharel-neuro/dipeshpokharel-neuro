@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dipesh Pokharel  
 PhD Candidate — Neuroscience & Neurological Disorders @ University of Toledo  
-Studying Parkinson’s disease, limb dominance, and gut–brain axis. 
+Working on Parkinson’s disease, limb dominance, and gut–brain axis. 
 
 ---
 
