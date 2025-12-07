@@ -22,10 +22,6 @@ Neuroscience Researcher | Neurodegeneration | Limb Dominance | Gut–Brain Axis
 
 ## 📰 Media Mentions  
 - [*The Blade:* “The Link Between Limb Dominance and Parkinson’s Disease”](https://www.toledoblade.com/a-e/culture/2025/11/03/the-link-between-limb-dominance-parkinsons-disease/stories/20251103003)
-
-- [University of Toledo COMLS features](https://www.utoledo.edu/med/research/students/)
-
-
 ---
 
 ## 📫 Contact  
