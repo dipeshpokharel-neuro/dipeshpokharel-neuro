@@ -35,4 +35,6 @@ Neuroscience Researcher | Neurodegeneration | Limb Dominance | Gut–Brain Axis
 ---
 
 ## 📫 Contact  
+📧 dipesh.pokharel@utoledo.edu
+📍 Toledo, Ohio, USA
 
