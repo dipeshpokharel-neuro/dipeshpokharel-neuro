@@ -21,6 +21,8 @@ PhD Candidate — Neuroscience & Neurological Disorders @ University of Toledo C
 
 ## 📰 Media Mentions  
 - [*The Blade:* “The Link Between Limb Dominance and Parkinson’s Disease”](https://www.toledoblade.com/a-e/culture/2025/11/03/the-link-between-limb-dominance-parkinsons-disease/stories/20251103003)
+- [*The Himalayan Times:* “Rising Challenges of Parkinson’s Disease in Nepal and the Road Ahead”](https://thehimalayantimes.com/opinion/rising-challenges-of-parkinsons-disease-in-nepal-and-the-road-ahead)
+- [*The Kathmandu Post:* Dipesh Pokharel](https://kathmandupost.com/author/dipesh-pokharel)
 ---
 
 
