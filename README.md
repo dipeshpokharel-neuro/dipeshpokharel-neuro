@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Dipesh Pokharel  
-PhD Candidate — Neuroscience & Neurological Disorders @ University of Toledo College of Medicine and Life Sciences | Neuroscience Researcher | Neurodegeneration | Limb Dominance | Gut–Brain Axis
+PhD — Neuroscience & Neurological Disorders @ University of Toledo College of Medicine and Life Sciences | Neuroscience Researcher | Neurodegeneration | Limb Dominance | Gut–Brain Axis
 
 ---
 ## 🔗 Connect With Me
